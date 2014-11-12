@@ -1,0 +1,3 @@
+
+stripped library by joem to save Arduino memory
+when using NEC (Adafruit) remote.
